@@ -1,14 +1,22 @@
 {
-  "name": "signup",
+  "name": "dimaslv07.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "css-pro": "./node_modules/.bin/cross-env NODE_ENV=production tailwindcss -i src/styles.css -o dist/styles.css"
+    "css-pro" : "./node_modules/.bin/cross-env NODE_ENV=production ./node_modules/.bin/tailwindcss -i src/style.css -o dist/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimasLv07/DimasLv07.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimasLv07/DimasLv07.github.io/issues"
+  },
+  "homepage": "https://github.com/DimasLv07/DimasLv07.github.io#readme",
   "devDependencies": {
     "autoprefixer": "^10.3.2",
     "cross-env": "^7.0.3",
