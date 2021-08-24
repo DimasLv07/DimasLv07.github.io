@@ -563,10 +563,6 @@ video {
   display: table;
 }
 
-.min-h-screen {
-  min-height: 100vh;
-}
-
 .w-full {
   width: 100%;
 }
@@ -685,11 +681,6 @@ video {
 .bg-red-600 {
   --tw-bg-opacity: 1;
   background-color: rgba(220, 38, 38, var(--tw-bg-opacity));
-}
-
-.bg-red-800 {
-  --tw-bg-opacity: 1;
-  background-color: rgba(153, 27, 27, var(--tw-bg-opacity));
 }
 
 .bg-blue-50 {
