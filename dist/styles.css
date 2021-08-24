@@ -697,6 +697,10 @@ video {
   background-size: cover;
 }
 
+.bg-fixed {
+  background-attachment: fixed;
+}
+
 .p-2 {
   padding: 0.5rem;
 }
