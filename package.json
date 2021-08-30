@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "css-pro" : "./node_modules/.bin/cross-env NODE_ENV=production ./node_modules/.bin/tailwindcss -i src/style.css -o dist/styles.css"
+    "css-pro": "./node_modules/.bin/cross-env NODE_ENV=production ./node_modules/.bin/tailwindcss -i src/style.css -o dist/styles.css"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/DimasLv07/DimasLv07.github.io#readme",
   "devDependencies": {
-    "autoprefixer": "^10.3.2",
+    "autoprefixer": "^10.3.3",
     "cross-env": "^7.0.3",
     "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.7"
+    "tailwindcss": "^2.2.8"
   }
 }
