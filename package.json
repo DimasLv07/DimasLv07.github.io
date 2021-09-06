@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/DimasLv07/DimasLv07.github.io#readme",
   "devDependencies": {
-    "autoprefixer": "^10.3.3",
+    "autoprefixer": "^10.3.4",
     "cross-env": "^7.0.3",
     "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.8"
+    "tailwindcss": "^2.2.9"
   }
 }
